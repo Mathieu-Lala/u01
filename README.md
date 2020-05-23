@@ -2,4 +2,4 @@
 
 ## A Collection of independent projects
 
-* ![ImgCompressor](./ImgCompressor/README.md "ImgCompressor")
+* [ImgCompressor](./ImgCompressor/README.md)
