@@ -18,7 +18,7 @@ $> cmake -B build . && cmake --build build
 ## Usage
 
 ```sh
-$> ./bin/app -h
+$> ./build/app -h
 Usage: app [--file=<path>] [--level=<level>] [-i]
 
 Options:

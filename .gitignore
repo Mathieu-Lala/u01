@@ -31,7 +31,6 @@
 *.out
 *.app
 build
-bin
 
 # IDE
 .vscode
