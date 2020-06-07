@@ -1,6 +1,9 @@
 # u01
 
-## A Collection of independent projects
+## What is it ?
+
+A Collection of independents/experimentals projects.\
+The main purpose is to learn new things.
 
 * [ImgCompressor](./ImgCompressor/README.md)
 
