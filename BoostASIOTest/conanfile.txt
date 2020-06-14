@@ -1,0 +1,7 @@
+[requires]
+boost_asio/1.69.0@bincrafters/stable
+
+[generators]
+cmake
+
+[options]

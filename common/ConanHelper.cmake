@@ -13,3 +13,5 @@ conan_cmake_run(
   BUILD missing
   INSTALL_ARGS -s build_type=Release
 )
+
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
